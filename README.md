@@ -9,6 +9,8 @@
 5. Do a `git push origin BRANCH`, where `BRANCH` is replaced with your branch name.
 6. Go on to `github.com` in this repo, and create a pull request for your branch.
 
+**Note**: this is *not* the only way to create a pull request.  For a repo on which you aren't an owner, you would clone the repo on github, edit your clone, then create a pull request between your clone and the original repo.  The pattern we are using here is more useful when you're working in a team and performing internal code reviews of team members' edits.
+
 # Your edits
 
 Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
