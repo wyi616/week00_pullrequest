@@ -19,7 +19,7 @@
 4.  Add a commit message (don't just leave it as "Update README.md").
 5. Make sure that a new pull request has been started using the new branch that you've created.  If that's the case, you're done.
 
-**Note**: this is *not* the only way to create a pull request.  For a repo on which you aren't an owner, you would clone the repo on github, edit your clone, then create a pull request between your clone and the original repo.  The pattern we are using here is more useful when you're working in a team and performing internal code reviews of team members' edits.
+**Note**: these are *not* the only ways to create a pull request.  For a repo on which you aren't an owner, you would clone the repo on github, edit your clone, then create a pull request between your clone and the original repo.  The patterns above are more useful when you're working in a team and performing internal code reviews of team members' edits.
 
 # Your edits
 
