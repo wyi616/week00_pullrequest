@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hello! My name is Amy Song and last summer I interned at Tinder as a backend engineer on the innovation team. 
