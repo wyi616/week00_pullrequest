@@ -23,4 +23,5 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi! My name is Si, and I'm a CS & IR double-major. This summer, I interned at LinkedIn with the payments team to redesign/write their receipt pages. 
+
