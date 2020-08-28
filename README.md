@@ -22,5 +22,4 @@
 **Note**: these are *not* the only ways to create a pull request.  For a repo on which you aren't an owner, you would clone the repo on github, edit your clone, then create a pull request between your clone and the original repo.  The patterns above are more useful when you're working in a team and performing internal code reviews of team members' edits.
 
 # Your edits
-
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi! I'm Allegra, a senior art and CS double major. This summer I stayed in Seattle and did a virtual SWE internship with DocuSign. I also spent a lot of nights in our backyard BBQing with my family.
