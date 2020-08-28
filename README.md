@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi Professor Sommers! I hope you had a good summer and that you got to spend good time with your family! I actually managed to go home to Armenia for about 4 months to see my parents and friends, which was very nice, since I don't get to sepnd much time with my family anymore ever since I am living abroad. Since all the flights were down, we got to go hiking a lot and explore some really beautiful places back home which was great! I also spent 2 months with my sister in Palo Alto and I did my internship online from there for Morgan Stanley. My sister and I went hiking a lot (Bay Area has some very nice places), but unfortunately, it got interrupted by a bad heat wave and then the wildfires started, so the smog was everywhere. I am currently back at Colgate and excited for this class!
