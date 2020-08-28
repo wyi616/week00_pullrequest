@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+My name is Aaron Mendelson, I am a Senior studying Computer Science/Mathematics. I live in the DC area, and this past summer I worked as a server at an Outback Steakhouse. I'm really excited to get started in this class!
