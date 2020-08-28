@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hey! I'm Bilal, a senior CS student at Colgate. I spent the summer interning with Desmos as a SWE on the Lesson Feedback team. Over the weekends, I'd hang out with my mom and my sister (often ordering out food in copious amounts when with the latter).
