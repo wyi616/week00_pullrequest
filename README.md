@@ -23,4 +23,7 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi everyone! I'm Joakim, a junior coming from Skopje, Macedonia. I'm majoring in computer science and (possibly) 
+minoring or majoring in math. Over the summer I was doing research with Prof. Sommers, as well as working on some 
+things of my own. Can't wait to see you all in class!
+
