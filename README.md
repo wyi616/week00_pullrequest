@@ -1,6 +1,6 @@
 # COSC 415: Pull request exercise
 
-1. Send a request to me to get added to this repo (giving me your Github username)
+1. Send a request to me to have write access to this repo (giving me your Github username)
 2. Once you've been added, if you have access to a working bash shell environment do the steps in section A, below.  If you do *not* have access to a working bash shell environment, do steps in section B below.
 
 ## Section A: Steps if you have a working shell environment:
