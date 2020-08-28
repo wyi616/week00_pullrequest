@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi Professor Sommers. This summer I worked as a research assistant in Professor Ay's lab.
