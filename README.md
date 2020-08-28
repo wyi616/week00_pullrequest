@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+I'm Jared Rosen, and I'm a senior majoring in Computer Science and Spanish. Over the summer I enjoyed reading outside and watching a lot of science fiction movies.
