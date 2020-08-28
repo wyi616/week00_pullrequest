@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi My name is Van Tran. I am a senior and I major in Computer Science. This summer I did research about machine learning with Professor Ahmet Ay.
