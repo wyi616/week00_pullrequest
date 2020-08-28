@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+My name's Tommy, I'm a senior CS major, and film and media studies minor. After returning home from studying abroad in New Zealand at the end of June, I worked as an intern at a company called SoFi until the end of the summer. I'm really excited to learn about software engineering this semester!
