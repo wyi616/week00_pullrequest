@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+I'm Nhiem. My on-campus activities include being a CL and co-president of Smash Bros club . Over the summer I interned at Square in the Catalog team while staying at Colgate. I also found a free bike, which was pretty sweet.
