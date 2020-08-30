@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi, I'm Will Worrell. I;m from Providence, Rhode Island, though i was born outside of Atlanta. I like soccer and listening to/making music. The first half of this summer I worked doing yard work around my neighborhood, and for the second half I did an IT project for a local company. In the free time I had, i went to the beach with friends.
