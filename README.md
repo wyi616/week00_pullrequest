@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi, I'm Meg! This summer I worked as an intern at BlackRock where I wrote unit tests for web components.
