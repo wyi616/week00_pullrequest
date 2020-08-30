@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi, my name is Mark and I spent the summer working and with my family in Mount Kisco, NY. It wasn't too exciting but I was able to spend a lot more time with my family and see a few friends (from a distance).
