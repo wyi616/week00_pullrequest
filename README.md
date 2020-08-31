@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi my name is Miles and I am a senior majoring in Comp Sci/Math and Economics. This summer I had an remote internship and traveled between my family's homes in New Jersey and Virginia
