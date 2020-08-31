@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi Im Bao. Over the summer I was here working on a research project with Prof. Samadian. I also did some outdoor stuff and hang out with my house mate. 
