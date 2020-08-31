@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi my name is Mickey Sacks I am a senior at Colgate. Over the summer I worked as a software engineer for a financial tech company.
