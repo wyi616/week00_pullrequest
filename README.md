@@ -23,4 +23,5 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+
+Hi I am Jesse.  I am a senior from New York City.  This summer i had a 5-week software engineering internship at Publicis Sapient.  Apart from that, I practiced stakeboarding and caligraphy and hung out with my family.  
