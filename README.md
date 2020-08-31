@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi, I'm Amber Nguyen. I'm a senior double majoring in Computer Science and Economics. This summer, I worked as a SWE intern at Intuit on the Electronic Filing Engine team, though remotely. I stayed at Colgate the whole summer and played a bit of badminton.  
