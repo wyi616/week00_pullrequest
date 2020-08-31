@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi my name is Nick Austin. Over the summer I hung out with my friends and took a computer science course on computer graphics.
