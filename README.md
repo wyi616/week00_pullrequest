@@ -22,4 +22,4 @@
 **Note**: these are *not* the only ways to create a pull request.  For a repo on which you aren't an owner, you would clone the repo on github, edit your clone, then create a pull request between your clone and the original repo.  The patterns above are more useful when you're working in a team and performing internal code reviews of team members' edits.
 
 # Your edits
-Hello, my name is Will Yi, a senior at Colgate. Over the summer I have completed my firmware development internship and began a self-run project in testing interaction rates based on changing lambda. Other than that I have mostly stayed home this summer. 
+Hello, my name is Will Yi, a senior at Colgate. Over the summer I have completed my firmware development internship and began a self-run project in testing interaction rates based on changing lambda. Other than that I have stayed home for most of the summer.
