@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+Hi I'm Gordon. I'm majoring in Environmental Economics and Computer Science. Over the summer I was plenty busy with my family, coding practice, Harvard's CORe program, and working as a research assistant on COVID-19 in the Caribbean.
